@@ -19,6 +19,7 @@ public class SistemOrder {
         return total;
     }
 
+
     public void printReceipt() {
         System.out.println("============Mr. SPICY=============");
         System.out.println("========= Nota Pemesanan =========");
